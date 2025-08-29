@@ -44,7 +44,7 @@ Creating responsive layouts with animations
 
 🌐 Live Demo
 
-Click here to try it live
+[Click here to try it live](https://rawcdn.githack.com/NikhilJangraGit/QR-Code-Generator/ddad1d7223b463e346171de057a63442f0cbf6f7/index.html)
 
 📌 Part of a Challenge
 
